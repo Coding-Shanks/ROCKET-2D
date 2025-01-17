@@ -23,6 +23,6 @@ A fun and interactive 2D game built with Python's Pygame library, where you pilo
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/rocket-shooting-game.git  
-cd rocket-shooting-game
+git clone https://github.com/Coding-Shanks/ROCKET-2D/.git  
+cd ROCKET-2D
 
